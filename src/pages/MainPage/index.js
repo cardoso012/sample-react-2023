@@ -2,7 +2,7 @@ import React from 'react';
 
 import { Container } from './styles';
 
-function Main() {
+function MainPage() {
   return (
     <Container>
       <img
@@ -16,4 +16,4 @@ function Main() {
   );
 }
 
-export default Main;
+export default MainPage;
